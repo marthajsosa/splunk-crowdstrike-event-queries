@@ -1,7 +1,10 @@
-# ASEP for Java Executables
-<blockquote>CrowdStrike Logscale Query</blockquote>
+# T1001.002 - Data Obfuscation via Steganography
+## CrowdStrike Logscale Query
+<blockquote>
 
-## Detecting Java-based persistence mechanisms in the Windows Registry Run keys) (MITRE ATTACK ID: T1547.001).
+Detecting Java-based persistence mechanisms in the Windows Registry Run keys) (MITRE ATTACK ID: T1547.001).
+
+</blockquote>
 
 ```Logscale
 // Filter for AsepValueUpdate events in Run registry keys
