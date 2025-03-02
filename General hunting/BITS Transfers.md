@@ -1,7 +1,7 @@
 # BITS Transfers
 ## CrowdStrike Logscale Query
 <blockquote>
-
+Detect adversaries using BITSAdmin for data exfiltration.
 </blockquote>
 
 ### Method 1: Command History
