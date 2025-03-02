@@ -15,5 +15,5 @@
 | sort(aidCount, order=desc)
 | drop([TargetProcessId, aidCount])
 ```
-## note:
+### note:
 - Change <target\\.exe> to the application for which you are filtering (e.g., /powershell\\.exe/iF)
